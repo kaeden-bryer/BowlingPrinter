@@ -1,37 +1,32 @@
-# Automatically re-generates the list of free agents and lanes
+import json
 
-lanes = [
-    ["Kaeden", "Julia", "Charlie", "Gavin"],
-    ["Abby", "Matt", "liam", "John"]
-]
+# Load data from input.json
+with open("input.json", "r") as file:
+    data = json.load(file)
 
-free_agents = [
-    "Sophia",
-    "Emily",
-    "Christian",
-    "Yuvi",
-    "Sun"
-]
+lanes = data["Lanes"]
+free_agents = data["Free_Agents"]
 
 def generate():
-    counter = 1
-    counter = print_lanes(counter)
-    counter = print_free_agents(counter)
+    with open("output.txt", "w") as output:
+        counter = 1
+        counter = print_lanes(counter, output)
+        counter = print_free_agents(counter, output)
 
-def print_lanes(counter):
-    print("Lanes:")
+def print_lanes(counter, output):
+    output.write("Lanes:\n")
     for lane in enumerate(lanes):
-        print("Lane", lane[0] + 1)
+        output.write(f"Lane {lane[0] + 1}\n")
         for person in lane[1]:
-            print(str(counter) + ". " + person)
+            output.write(f"{counter}. {person}\n")
             counter += 1
-        print("\n")
+        output.write("\n")
     return counter
 
-def print_free_agents(counter):
-    print("Free Agents:")
+def print_free_agents(counter, output):
+    output.write("Free Agents:\n")
     for person in free_agents:
-        print(str(counter) + ". " + person)
+        output.write(f"{counter}. {person}\n")
         counter += 1
     return counter
 
