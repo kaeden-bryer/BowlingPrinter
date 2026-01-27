@@ -16,7 +16,7 @@ def generate():
 def print_lanes(counter, output):
     output.write("Lanes:\n")
     for lane in enumerate(lanes):
-        output.write(f"Lane {lane[0] + 1}\n")
+        output.write(f"Lane {lane[0] + 1} –– " + lane[1][0] + "\n")
         for person in lane[1]:
             output.write(f"{counter}. {person}\n")
             counter += 1

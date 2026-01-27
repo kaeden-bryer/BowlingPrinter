@@ -9,21 +9,42 @@
         [
             "Abby Kanakry",
             "Matt Lansdale",
-            "Other ppl",
-            "John Doe"
+            "Emily Kanakry",
+            "Cammie Kanakry",
+	    	"Sue Holston",
+	    	"Rachel Holston"
         ],
         [
-            "Jane Smith",
-            "Emily Davis",
-            "Michael Brown",
-            "Sarah Wilson"
-        ]
+            "Garrett Mabee",
+			"Tanya Mabee",
+			"Daniel Mabee",
+			"Sydney Mabee",
+			"Brayden Mabee"
+        ],
+		[
+			"Jade Mabee",
+			"Vicki Mabee",
+			"Nikki Fitchena",
+			"Deniese Lee",
+			"Laura Mabee"
+		]
     ],
     "Free_Agents": [
-        "Declan Nowakowski",
-        "V",
-        "Andre",
-        "Jo",
-        "Christian"
+        "Haseeb Ahmed",
+		"Moe Abbasi",
+		"Andrew Hatch",
+		"Andrew Aude",
+		"Gavin Barnard",
+		"CJ Dunn",
+		"Cristian Shelton",
+		"Declan Nowakowski",
+		"Lorenzo Vizentim",
+		"Nik Ristoski",
+		"Aiden Macias",
+		"Trevor Nash",
+		"Vadym Skakun",
+		"Tanner Barnard",
+		"Jo Donaldson",
+		"Andre Vang"
     ]
 }
