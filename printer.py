@@ -1,6 +1,5 @@
 import json
 
-# Load data from input.json
 with open("input.json", "r") as file:
     data = json.load(file)
 
@@ -16,7 +15,12 @@ def generate():
 def print_lanes(counter, output):
     output.write("Lanes:\n")
     for lane in enumerate(lanes):
-        output.write(f"Lane {lane[0] + 1} –– " + lane[1][0] + f" {len(lane[1])}/6 filled\n")
+        slots_filled = len(lane[1])
+        if slots_filled == 6:
+            end_token = "✅"
+        else:
+            end_token = "🟠"
+        output.write(f"Lane {lane[0] + 1} –– " + lane[1][0] + f" ({slots_filled}/6 filled) {end_token}\n")
         for person in lane[1]:
             output.write(f"{counter}. {person}\n")
             counter += 1
