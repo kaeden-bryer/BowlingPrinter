@@ -1,3 +1,5 @@
+List (comment or fill out form for a spot!):
+
 Lanes:
 Lane 1 –– Kaeden Bryer (4/6 filled) 🟠
 1. Kaeden Bryer
@@ -27,20 +29,30 @@ Lane 4 –– Jade Mabee (5/6 filled) 🟢
 19. Deniese Lee
 20. Laura Mabee
 
+Lane 5 –– Vadym Skakun (6/6 filled) ✅
+21. Vadym Skakun
+22. Samantha
+23. Jaden
+24. Sarah
+25. Bri
+26. Christian
+
+Lane 6 –– Alex Fillmore (1/6 filled) ⚠️
+27. Alex Fillmore
+
 Free Agents:
-21. Haseeb Ahmed
-22. Moe Abbasi
-23. Andrew Hatch
-24. Andrew Aude
-25. Gavin Barnard
-26. CJ Dunn
-27. Cristian Shelton
-28. Declan Nowakowski
-29. Lorenzo Vizentim
-30. Nik Ristoski
-31. Aiden Macias
-32. Trevor Nash
-33. Vadym Skakun
-34. Tanner Barnard
-35. Jo Donaldson
-36. Andre Vang
+28. Haseeb Ahmed
+29. Moe Abbasi
+30. Andrew Hatch
+31. Andrew Aude
+32. Gavin Barnard
+33. CJ Dunn
+34. Cristian Shelton
+35. Declan Nowakowski
+36. Lorenzo Vizentim
+37. Nik Ristoski
+38. Aiden Macias
+39. Trevor Nash
+40. Tanner Barnard
+41. Jo Donaldson
+42. Andre Vang
