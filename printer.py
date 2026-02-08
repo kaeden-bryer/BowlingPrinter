@@ -16,7 +16,7 @@ end_tokens = {
 }
 
 def generate():
-    with open("output.txt", "w") as output:
+    with open("output.txt", "w", encoding="utf-8") as output:
         counter = 1
         output.write("List (comment or fill out form for a spot!):\n\n")
         counter = print_lanes(counter, output)

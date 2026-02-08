@@ -40,19 +40,30 @@ Lane 5 –– Vadym Skakun (6/6 filled) ✅
 Lane 6 –– Alex Fillmore (1/6 filled) ⚠️
 27. Alex Fillmore
 
+Lane 7 –– Nik Ristoski (5/6 filled) 🟢
+28. Nik Ristoski
+29. Joe
+30. Emili
+31. Marko
+32. Dom
+
+Lane 8 –– Amal Thoom (3/6 filled) 🟠
+33. Amal Thoom
+34. Erin BOWL
+35. Andrew BOWL
+
 Free Agents:
-28. Haseeb Ahmed
-29. Moe Abbasi
-30. Andrew Hatch
-31. Andrew Aude
-32. Gavin Barnard
-33. CJ Dunn
-34. Cristian Shelton
-35. Declan Nowakowski
-36. Lorenzo Vizentim
-37. Nik Ristoski
-38. Aiden Macias
-39. Trevor Nash
-40. Tanner Barnard
-41. Jo Donaldson
-42. Andre Vang
+36. Haseeb Ahmed
+37. Moe Abbasi
+38. Andrew Hatch
+39. Andrew Aude
+40. Gavin Barnard
+41. CJ Dunn
+42. Cristian Shelton
+43. Declan Nowakowski
+44. Lorenzo Vizentim
+45. Aiden Macias
+46. Trevor Nash
+47. Tanner Barnard
+48. Jo Donaldson
+49. Andre Vang
