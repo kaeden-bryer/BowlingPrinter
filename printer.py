@@ -26,7 +26,10 @@ def print_lanes(counter, output):
     output.write("Lanes:\n")
     for lane in enumerate(lanes):
         slots_filled = len(lane[1])
-        end_token = end_tokens[slots_filled]
+        if slots_filled > 6:
+            end_token = "🎉"
+        else:
+            end_token = end_tokens[slots_filled]
         output.write(f"Lane {lane[0] + 1} –– " + lane[1][0] + f" ({slots_filled}/6 filled) {end_token}\n")
         for person in lane[1]:
             output.write(f"{counter}. {person}\n")

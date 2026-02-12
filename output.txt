@@ -1,69 +1,80 @@
 List (comment or fill out form for a spot!):
 
 Lanes:
-Lane 1 –– Kaeden Bryer (4/6 filled) 🟠
+Lane 1 –– Kaeden Bryer (6/6 filled) ✅
 1. Kaeden Bryer
 2. Julia Schoen
 3. Gavin Waldis
 4. Charlie Hayes
+5. Noah Schepke
+6. Avary Parsons
 
 Lane 2 –– Abby Kanakry (6/6 filled) ✅
-5. Abby Kanakry
-6. Matt Lansdale
-7. Emily Kanakry
-8. Cammie Kanakry
-9. Sue Holston
-10. Rachel Holston
+7. Abby Kanakry
+8. Matt Lansdale
+9. Emily Kanakry
+10. Cammie Kanakry
+11. Sue Holston
+12. Rachel Holston
 
 Lane 3 –– Garrett Mabee (5/6 filled) 🟢
-11. Garrett Mabee
-12. Tanya Mabee
-13. Daniel Mabee
-14. Sydney Mabee
-15. Brayden Mabee
+13. Garrett Mabee
+14. Tanya Mabee
+15. Daniel Mabee
+16. Sydney Mabee
+17. Brayden Mabee
 
 Lane 4 –– Jade Mabee (5/6 filled) 🟢
-16. Jade Mabee
-17. Vicki Mabee
-18. Nikki Fitchena
-19. Deniese Lee
-20. Laura Mabee
+18. Jade Mabee
+19. Vicki Mabee
+20. Nikki Fitchena
+21. Deniese Lee
+22. Laura Mabee
 
 Lane 5 –– Vadym Skakun (6/6 filled) ✅
-21. Vadym Skakun
-22. Samantha
-23. Jaden
-24. Sarah
-25. Bri
-26. Christian
+23. Vadym Skakun
+24. Samantha
+25. Jaden
+26. Sarah
+27. Bri
+28. Christian
 
 Lane 6 –– Alex Fillmore (1/6 filled) ⚠️
-27. Alex Fillmore
+29. Alex Fillmore
 
 Lane 7 –– Nik Ristoski (5/6 filled) 🟢
-28. Nik Ristoski
-29. Joe
-30. Emili
-31. Marko
-32. Dom
+30. Nik Ristoski
+31. Joe
+32. Emili
+33. Marko
+34. Dom
 
-Lane 8 –– Amal Thoom (3/6 filled) 🟠
-33. Amal Thoom
-34. Erin BOWL
-35. Andrew BOWL
+Lane 8 –– Amal Thoom (6/6 filled) ✅
+35. Amal Thoom
+36. Erin BOWL
+37. Andrew BOWL
+38. Charly Chang
+39. Hemant Jagtap
+40. Matt Kozel
+
+Lane 9 –– Julia Lor (5/6 filled) 🟢
+41. Julia Lor
+42. Mckayla Her
+43. Tyler Her
+44. Janathan Vang
+45. Andre Vang
 
 Free Agents:
-36. Haseeb Ahmed
-37. Moe Abbasi
-38. Andrew Hatch
-39. Andrew Aude
-40. Gavin Barnard
-41. CJ Dunn
-42. Cristian Shelton
-43. Declan Nowakowski
-44. Lorenzo Vizentim
-45. Aiden Macias
-46. Trevor Nash
-47. Tanner Barnard
-48. Jo Donaldson
-49. Andre Vang
+46. Haseeb Ahmed
+47. Moe Abbasi
+48. Andrew Hatch
+49. Andrew Aude
+50. Gavin Barnard
+51. CJ Dunn
+52. Cristian Shelton
+53. Declan Nowakowski
+54. Lorenzo Vizentim
+55. Aiden Macias
+56. Trevor Nash
+57. Tanner Barnard
+58. Jo Donaldson
