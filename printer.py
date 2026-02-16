@@ -15,6 +15,11 @@ end_tokens = {
     1: "⚠️"
 }
 
+paid_token = {
+    True: "💵",
+    False: "❌"
+}
+
 def generate():
     with open("output.txt", "w", encoding="utf-8") as output:
         counter = 1
@@ -30,9 +35,9 @@ def print_lanes(counter, output):
             end_token = "🎉"
         else:
             end_token = end_tokens[slots_filled]
-        output.write(f"Lane {lane[0] + 1} –– " + lane[1][0] + f" ({slots_filled}/6 filled) {end_token}\n")
+        output.write(f"Lane {lane[0] + 1} –– " + lane[1][0]["Name"] + f" ({slots_filled}/6 filled) {end_token}\n")
         for person in lane[1]:
-            output.write(f"{counter}. {person}\n")
+            output.write(f"{counter}. {person['Name']} {paid_token[person['hasPaid']]}\n")
             counter += 1
         output.write("\n")
     return counter
@@ -40,7 +45,7 @@ def print_lanes(counter, output):
 def print_free_agents(counter, output):
     output.write("Free Agents:\n")
     for person in free_agents:
-        output.write(f"{counter}. {person}\n")
+        output.write(f"{counter}. {person['Name']} {paid_token[person['hasPaid']]}\n")
         counter += 1
     return counter
 

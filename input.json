@@ -1,89 +1,95 @@
 {
-    "Lanes": [
+	"Lanes": [
+		[
+			{ "Name": "Kaeden Bryer", "hasPaid": true },
+			{ "Name": "Julia Schoen", "hasPaid": true },
+			{ "Name": "Gavin Waldis", "hasPaid": false },
+			{ "Name": "Charlie Hayes", "hasPaid": false },
+			{ "Name": "Noah Schepke", "hasPaid": false },
+			{ "Name": "Avary Parsons", "hasPaid": false }
+		],
         [
-            "Kaeden Bryer",
-            "Julia Schoen",
-            "Gavin Waldis",
-            "Charlie Hayes",
-			"Noah Schepke",
-			"Avary Parsons"
+            { "Name": "Abby Kanakry", "hasPaid": false },
+            { "Name": "Matt Lansdale", "hasPaid": false },
+            { "Name": "Emily Kanakry", "hasPaid": false },
+            { "Name": "Cammie Kanakry", "hasPaid": false },
+	    	{ "Name": "Sue Holston", "hasPaid": false },
+	    	{ "Name": "Rachel Holston", "hasPaid": false }
         ],
         [
-            "Abby Kanakry",
-            "Matt Lansdale",
-            "Emily Kanakry",
-            "Cammie Kanakry",
-	    	"Sue Holston",
-	    	"Rachel Holston"
-        ],
-        [
-            "Garrett Mabee",
-			"Tanya Mabee",
-			"Daniel Mabee",
-			"Sydney Mabee",
-			"Brayden Mabee"
+            { "Name": "Garrett Mabee", "hasPaid": false },
+			{ "Name": "Tanya Mabee", "hasPaid": false },
+			{ "Name": "Daniel Mabee", "hasPaid": false },
+			{ "Name": "Sydney Mabee", "hasPaid": false },
+			{ "Name": "Brayden Mabee", "hasPaid": false }
         ],
 		[
-			"Jade Mabee",
-			"Vicki Mabee",
-			"Nikki Fitchena",
-			"Deniese Lee",
-			"Laura Mabee"
+			{ "Name": "Jade Mabee", "hasPaid": false },
+			{ "Name": "Vicki Mabee", "hasPaid": false },
+			{ "Name": "Nikki Fitchena", "hasPaid": false },
+			{ "Name": "Deniese Lee", "hasPaid": false },
+			{ "Name": "Laura Mabee", "hasPaid": false }
 		],
 		[
-			"Vadym Skakun",
-			"Samantha",
-			"Jaden",
-			"Sarah",
-			"Bri",
-			"Christian"
+			{ "Name": "Vadym Skakun", "hasPaid": false },
+			{ "Name": "Samantha", "hasPaid": false },
+			{ "Name": "Jaden", "hasPaid": false },
+			{ "Name": "Sarah", "hasPaid": false },
+			{ "Name": "Bri", "hasPaid": false },
+			{ "Name": "Christian", "hasPaid": false }
 		],
 		[
-			"Alex Fillmore"
+			{ "Name": "Alex Fillmore", "hasPaid": false }
 		],
 		[
-			"Nik Ristoski",
-			"Joe",
-			"Emili",
-			"Marko",
-			"Dom"
+			{ "Name": "Nik Ristoski", "hasPaid": false },
+			{ "Name": "Joe", "hasPaid": false },
+			{ "Name": "Emili", "hasPaid": false },
+			{ "Name": "Marko", "hasPaid": false },
+			{ "Name": "Dom", "hasPaid": false }
 		],
 		[
-			"Amal Thoom",
-			"Erin BOWL",
-			"Andrew BOWL",
-			"Charly Chang",
-			"Hemant Jagtap",
-			"Matt Kozel"
+			{ "Name": "Amal Thoom", "hasPaid": false },
+			{ "Name": "Erin BOWL", "hasPaid": false },
+			{ "Name": "Andrew BOWL", "hasPaid": false },
+			{ "Name": "Charly Chang", "hasPaid": false },
+			{ "Name": "Hemant Jagtap", "hasPaid": false },
+			{ "Name": "Matt Kozel", "hasPaid": false }
 		],
 		[
-			"Julia Lor",
-			"Mckayla Her",
-			"Tyler Her",
-			"Janathan Vang",
-			"Andre Vang"
+			{ "Name": "Julia Lor", "hasPaid": false },
+			{ "Name": "Mckayla Her", "hasPaid": false },
+			{ "Name": "Tyler Her", "hasPaid": false },
+			{ "Name": "Janathan Vang", "hasPaid": false },
+			{ "Name": "Andre Vang", "hasPaid": false }
 		],
 		[
-			"Jo Donaldson",
-			"Joe Donaldson",
-			"Jazzma Donaldson",
-			"Jaeø Donaldson",
-			"Joell Donaldson",
-			"Lily Tylenda"
+			{ "Name": "Jo Donaldson", "hasPaid": false },
+			{ "Name": "Joe Donaldson", "hasPaid": false },
+			{ "Name": "Jazzma Donaldson", "hasPaid": false },
+			{ "Name": "Jaeø Donaldson", "hasPaid": false },
+			{ "Name": "Joell Donaldson", "hasPaid": false },
+			{ "Name": "Lily Tylenda", "hasPaid": false }
+		],
+		[
+			{ "Name": "Krista Rice", "hasPaid": false },
+			{ "Name": "tbd", "hasPaid": false },
+			{ "Name": "tbd", "hasPaid": false },
+			{ "Name": "tbd", "hasPaid": false },
+			{ "Name": "tbd", "hasPaid": false }
 		]
     ],
     "Free_Agents": [
-        "Haseeb Ahmed",
-		"Moe Abbasi",
-		"Andrew Hatch",
-		"Andrew Aude",
-		"Gavin Barnard",
-		"CJ Dunn",
-		"Cristian Shelton",
-		"Declan Nowakowski",
-		"Lorenzo Vizentim",
-		"Aiden Macias",
-		"Trevor Nash",
-		"Tanner Barnard"
+		{ "Name": "Moe Abbasi", "hasPaid": false },
+		{ "Name": "Andrew Hatch", "hasPaid": false },
+		{ "Name": "Andrew Aude", "hasPaid": false },
+		{ "Name": "Gavin Barnard", "hasPaid": false },
+		{ "Name": "CJ Dunn", "hasPaid": false },
+		{ "Name": "Cristian Shelton", "hasPaid": false },
+		{ "Name": "Declan Nowakowski", "hasPaid": false },
+		{ "Name": "Lorenzo Vizentim", "hasPaid": false },
+		{ "Name": "Aiden Macias", "hasPaid": false },
+		{ "Name": "Trevor Nash", "hasPaid": false },
+		{ "Name": "Tanner Barnard", "hasPaid": false }
     ]
 }
