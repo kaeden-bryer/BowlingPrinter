@@ -19,16 +19,16 @@ Lane 2 –– Abby Kanakry (6/6 filled) ✅
 
 Lane 3 –– Garrett Mabee (5/6 filled) 🟢
 13. Garrett Mabee ❌
-14. Tanya Mabee ❌
-15. Daniel Mabee ❌
+14. Tanya Mabee 💵
+15. Daniel Mabee 💵
 16. Sydney Mabee ❌
-17. Brayden Mabee ❌
+17. Brayden Mabee 💵
 
 Lane 4 –– Jade Mabee (5/6 filled) 🟢
-18. Jade Mabee ❌
-19. Vicki Mabee ❌
-20. Nikki Fitchena ❌
-21. Deniese Lee ❌
+18. Jade Mabee 💵
+19. Vicki Mabee 💵
+20. Nikki Fitchena 💵
+21. Deniese Lee 💵
 22. Laura Mabee ❌
 
 Lane 5 –– Vadym Skakun (6/6 filled) ✅
@@ -50,12 +50,12 @@ Lane 7 –– Nik Ristoski (5/6 filled) 🟢
 34. Dom ❌
 
 Lane 8 –– Amal Thoom (6/6 filled) ✅
-35. Amal Thoom ❌
-36. Erin BOWL ❌
-37. Andrew BOWL ❌
-38. Charly Chang ❌
-39. Hemant Jagtap ❌
-40. Matt Kozel ❌
+35. Amal Thoom 💵
+36. Erin BOWL 💵
+37. Andrew BOWL 💵
+38. Andy Than 💵
+39. Hemant Jagtap 💵
+40. Matt Kozel 💵
 
 Lane 9 –– Julia Lor (5/6 filled) 🟢
 41. Julia Lor ❌
@@ -78,15 +78,33 @@ Lane 11 –– Lillian Frias (4/6 filled) 🟠
 54. Ella Schomer ❌
 55. Paul Seeley ❌
 
+Lane 12 –– Trevor (6/6 filled) ✅
+56. Trevor ❌
+57. Mia ❌
+58. Kurt ❌
+59. Angie ❌
+60. Austin ❌
+61. Nicki ❌
+
+Lane 13 –– Cristian Shelton (5/6 filled) 🟢
+62. Cristian Shelton ❌
+63. Emma ❌
+64. Mikey ❌
+65. Lev ❌
+66. Tyler ❌
+
+Lane 14 –– Tarun (4/6 filled) 🟠
+67. Tarun 💵
+68. Gabe 💵
+69. Logan 💵
+70. Anton 💵
+
 Free Agents:
-56. Moe Abbasi ❌
-57. Andrew Hatch ❌
-58. Andrew Aude ❌
-59. Gavin Barnard ❌
-60. CJ Dunn ❌
-61. Cristian Shelton ❌
-62. Declan Nowakowski ❌
-63. Lorenzo Vizentim ❌
-64. Aiden Macias ❌
-65. Trevor Nash ❌
-66. Tanner Barnard ❌
+71. Moe Abbasi ❌
+72. Andrew Hatch ❌
+73. Andrew Aude ❌
+74. Gavin Barnard ❌
+75. CJ Dunn ❌
+76. Declan Nowakowski ❌
+77. Lorenzo Vizentim ❌
+78. Aiden Macias ❌
