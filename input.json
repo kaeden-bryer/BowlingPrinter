@@ -98,8 +98,7 @@
 			{ "Name": "Gabe", "hasPaid": true },
 			{ "Name": "Logan", "hasPaid": true },
 			{ "Name": "Anton", "hasPaid": true },
-			{ "Name": "Father Vizentim", "hasPaid": false },
-			{ "Name": "Mother Vizentim", "hasPaid": false }
+			{ "Name": "Gavin Barnard", "hasPaid": false }
 		],
 		[
 			{ "Name": "Moe Abbasi", "hasPaid": false},
@@ -112,11 +111,12 @@
 			{ "Name": "Lawrence Patton", "hasPaid": false},
 			{ "Name": "Lawrence +1", "hasPaid": false},
 			{ "Name": "Lawrence +2", "hasPaid": false},
-			{ "Name": "Hatch", "hasPaid": false},
-			{ "Name": "Gavin Barnard", "hasPaid": false }
+			{ "Name": "Father Vizentim", "hasPaid": false },
+			{ "Name": "Mother Vizentim", "hasPaid": false }
 		]
     ],
     "Free_Agents": [
+		 {"Name": "Hatch", "hasPaid": false},
 		{ "Name": "Aiden Macias", "hasPaid": false },
 		{ "Name": "Filly", "hasPaid": false }
     ]
