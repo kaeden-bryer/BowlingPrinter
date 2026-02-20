@@ -8,22 +8,13 @@
 			{ "Name": "Noah Schepke", "hasPaid": true },
 			{ "Name": "Avary Parsons", "hasPaid": true }
 		],
-        [
-            { "Name": "Abby Kanakry", "hasPaid": true },
-            { "Name": "Matt Lansdale", "hasPaid": true },
-            { "Name": "Emily Kanakry", "hasPaid": true },
-            { "Name": "Cammie Kanakry", "hasPaid": true },
-	    	{ "Name": "Sue Holston", "hasPaid": true },
-	    	{ "Name": "Rachel Holston", "hasPaid": true }
-        ],
-        [
-            { "Name": "Garrett Mabee", "hasPaid": true },
-			{ "Name": "Tanya Mabee", "hasPaid": true },
-			{ "Name": "Daniel Mabee", "hasPaid": true },
-			{ "Name": "Isabella Vallee", "hasPaid": true },
-			{ "Name": "Brayden Mabee", "hasPaid": true },
-			{ "Name": "CJ Dunn", "hasPaid": true }
-        ],
+		[
+			{ "Name": "Moe Abbasi", "hasPaid": false},
+			{ "Name": "Emilie", "hasPaid": false},
+			{ "Name": "Ian", "hasPaid": false},
+			{ "Name": "Dalton", "hasPaid": false},
+			{ "Name": "Katie", "hasPaid": false}
+		],
 		[
 			{ "Name": "Jade Mabee", "hasPaid": true },
 			{ "Name": "Vicki Mabee", "hasPaid": true },
@@ -33,57 +24,36 @@
 			{ "Name": "Theresa Unger", "hasPaid": true }
 		],
 		[
-			{ "Name": "Vadym Skakun", "hasPaid": false },
-			{ "Name": "Samantha", "hasPaid": false },
-			{ "Name": "Jaden", "hasPaid": false },
-			{ "Name": "Sarah", "hasPaid": false },
-			{ "Name": "Bri", "hasPaid": false },
-			{ "Name": "Christian", "hasPaid": false }
-		],
-		[
-			{ "Name": "Nik Ristoski", "hasPaid": true },
-			{ "Name": "Joe", "hasPaid": true },
-			{ "Name": "Emili", "hasPaid": true },
-			{ "Name": "Marko", "hasPaid": true },
-			{ "Name": "Dom", "hasPaid": true }
-		],
-		[
-			{ "Name": "Amal Thoom", "hasPaid": true },
-			{ "Name": "Erin BOWL", "hasPaid": true },
-			{ "Name": "Andrew BOWL", "hasPaid": true },
-			{ "Name": "Andy Than", "hasPaid": true },
-			{ "Name": "Hemant Jagtap", "hasPaid": true },
-			{ "Name": "Matt Kozel", "hasPaid": true }
-		],
-		[
-			{ "Name": "Julia Lor", "hasPaid": false },
-			{ "Name": "Mckayla Her", "hasPaid": false },
-			{ "Name": "Tyler Her", "hasPaid": false },
-			{ "Name": "Janathan Vang", "hasPaid": false },
-			{ "Name": "Andre Vang", "hasPaid": false }
-		],
-		[
-			{ "Name": "Jo Donaldson", "hasPaid": true },
-			{ "Name": "Joe Donaldson", "hasPaid": true },
-			{ "Name": "Jazzma Donaldson", "hasPaid": true },
-			{ "Name": "Jaeø Donaldson", "hasPaid": true },
-			{ "Name": "Joell Donaldson", "hasPaid": true },
-			{ "Name": "Lily Tylenda", "hasPaid": true }
+			{ "Name": "Garrett Mabee", "hasPaid": true },
+			{ "Name": "Tanya Mabee", "hasPaid": true },
+			{ "Name": "Daniel Mabee", "hasPaid": true },
+			{ "Name": "Isabella Vallee", "hasPaid": true },
+			{ "Name": "Brayden Mabee", "hasPaid": true },
+			{ "Name": "CJ Dunn", "hasPaid": false }
 		],
 		[
 			{ "Name": "Lillian Frias", "hasPaid": true },
 			{ "Name": "Delaney Stern", "hasPaid": true },
 			{ "Name": "Ella Schomer", "hasPaid": true },
 			{ "Name": "Paul Seeley", "hasPaid": true },
-			{ "Name": "Aude", "hasPaid": false},
-			{ "Name": "Aude +1", "hasPaid": false}
+			{ "Name": "Aude", "hasPaid": true},
+			{ "Name": "Hatch", "hasPaid": false}
 		],
 		[
 			{ "Name": "Trevor", "hasPaid": true },
 			{ "Name": "Mia", "hasPaid": true },
 			{ "Name": "Kurt", "hasPaid": true },
 			{ "Name": "Angie", "hasPaid": true },
-			{ "Name": "Austin", "hasPaid": true }
+			{ "Name": "Austin", "hasPaid": true },
+			{ "Name": "Charlie La'Faive", "hasPaid": true }
+		],
+		[
+			{ "Name": "Vadym Skakun", "hasPaid": false },
+			{ "Name": "Samantha", "hasPaid": false },
+			{ "Name": "Jaden", "hasPaid": false },
+			{ "Name": "Sarah", "hasPaid": false },
+			{ "Name": "Christian", "hasPaid": false },
+			{ "Name": "Trey Brunkhoarst", "hasPaid": true }
 		],
 		[
 			{ "Name": "Cristian Shelton", "hasPaid": true },
@@ -94,6 +64,28 @@
 			{ "Name": "Tyler", "hasPaid": false }
 		],
 		[
+			{ "Name": "Jo Donaldson", "hasPaid": true },
+			{ "Name": "Joe Donaldson", "hasPaid": true },
+			{ "Name": "Jazzma Donaldson", "hasPaid": true },
+			{ "Name": "Jaeø Donaldson", "hasPaid": true },
+			{ "Name": "Joell Donaldson", "hasPaid": true },
+			{ "Name": "Lily Tylenda", "hasPaid": true }
+		],
+		[
+			{ "Name": "Julia Lor", "hasPaid": false },
+			{ "Name": "Mckayla Her", "hasPaid": false },
+			{ "Name": "Tyler Her", "hasPaid": false },
+			{ "Name": "Janathan Vang", "hasPaid": false },
+			{ "Name": "Andre Vang", "hasPaid": false }
+		],
+		[
+			{ "Name": "Nik Ristoski", "hasPaid": true },
+			{ "Name": "Joe", "hasPaid": true },
+			{ "Name": "Emili", "hasPaid": true },
+			{ "Name": "Marko", "hasPaid": true },
+			{ "Name": "Dom", "hasPaid": true }
+		],
+		[
 			{ "Name": "Tarun", "hasPaid": true},
 			{ "Name": "Gabe", "hasPaid": true },
 			{ "Name": "Logan", "hasPaid": true },
@@ -101,11 +93,20 @@
 			{ "Name": "Gavin Barnard", "hasPaid": false }
 		],
 		[
-			{ "Name": "Moe Abbasi", "hasPaid": false},
-			{ "Name": "Emilie", "hasPaid": false},
-			{ "Name": "Ian", "hasPaid": false},
-			{ "Name": "Dalton", "hasPaid": false},
-			{ "Name": "Katie", "hasPaid": false}
+			{ "Name": "Amal Thoom", "hasPaid": true },
+			{ "Name": "Erin BOWL", "hasPaid": true },
+			{ "Name": "Andrew BOWL", "hasPaid": true },
+			{ "Name": "Andy Than", "hasPaid": true },
+			{ "Name": "Hemant Jagtap", "hasPaid": true },
+			{ "Name": "Matt Kozel", "hasPaid": true }
+		],
+		[
+			{ "Name": "Abby Kanakry", "hasPaid": true },
+			{ "Name": "Matt Lansdale", "hasPaid": true },
+			{ "Name": "Emily Kanakry", "hasPaid": true },
+			{ "Name": "Cammie Kanakry", "hasPaid": true },
+			{ "Name": "Sue Holston", "hasPaid": true },
+			{ "Name": "Rachel Holston", "hasPaid": true }
 		],
 		[
 			{ "Name": "Lawrence Patton", "hasPaid": false},
@@ -116,7 +117,6 @@
 		]
     ],
     "Free_Agents": [
-		 {"Name": "Hatch", "hasPaid": false},
 		{ "Name": "Aiden Macias", "hasPaid": false },
 		{ "Name": "Filly", "hasPaid": false }
     ]
