@@ -21,7 +21,8 @@
 			{ "Name": "Tanya Mabee", "hasPaid": true },
 			{ "Name": "Daniel Mabee", "hasPaid": true },
 			{ "Name": "Isabella Vallee", "hasPaid": true },
-			{ "Name": "Brayden Mabee", "hasPaid": true }
+			{ "Name": "Brayden Mabee", "hasPaid": true },
+			{ "Name": "CJ Dunn", "hasPaid": true }
         ],
 		[
 			{ "Name": "Jade Mabee", "hasPaid": true },
@@ -73,7 +74,9 @@
 			{ "Name": "Lillian Frias", "hasPaid": true },
 			{ "Name": "Delaney Stern", "hasPaid": true },
 			{ "Name": "Ella Schomer", "hasPaid": true },
-			{ "Name": "Paul Seeley", "hasPaid": true }
+			{ "Name": "Paul Seeley", "hasPaid": true },
+			{ "Name": "Aude", "hasPaid": false},
+			{ "Name": "Aude +1", "hasPaid": false}
 		],
 		[
 			{ "Name": "Trevor", "hasPaid": true },
@@ -94,7 +97,9 @@
 			{ "Name": "Tarun", "hasPaid": true},
 			{ "Name": "Gabe", "hasPaid": true },
 			{ "Name": "Logan", "hasPaid": true },
-			{ "Name": "Anton", "hasPaid": true }
+			{ "Name": "Anton", "hasPaid": true },
+			{ "Name": "Father Vizentim", "hasPaid": false },
+			{ "Name": "Mother Vizentim", "hasPaid": false }
 		],
 		[
 			{ "Name": "Moe Abbasi", "hasPaid": false},
@@ -108,14 +113,7 @@
 			{ "Name": "Lawrence +1", "hasPaid": false},
 			{ "Name": "Lawrence +2", "hasPaid": false},
 			{ "Name": "Hatch", "hasPaid": false},
-			{ "Name": "Hatch +1", "hasPaid": false}
-		],
-		[
-			{ "Name": "Andrew Aude", "hasPaid": false },
-			{ "Name": "Gavin Barnard", "hasPaid": false },
-			{ "Name": "CJ Dunn", "hasPaid": false },
-			{ "Name": "Father Vizentim", "hasPaid": false },
-			{ "Name": "Mother Vizentim", "hasPaid": false }
+			{ "Name": "Gavin Barnard", "hasPaid": false }
 		]
     ],
     "Free_Agents": [

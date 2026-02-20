@@ -49,6 +49,4 @@ def print_free_agents(counter, output):
         counter += 1
     return counter
 
-
-
 generate()
