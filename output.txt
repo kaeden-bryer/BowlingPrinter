@@ -4,52 +4,50 @@ Lanes:
 Lane 1 –– Kaeden Bryer (6/6 filled) ✅
 1. Kaeden Bryer 💵
 2. Julia Schoen 💵
-3. Gavin Waldis ❌
-4. Charlie Hayes ❌
-5. Noah Schepke ❌
-6. Avary Parsons ❌
+3. Gavin Waldis 💵
+4. Charlie Hayes 💵
+5. Noah Schepke 💵
+6. Avary Parsons 💵
 
 Lane 2 –– Abby Kanakry (6/6 filled) ✅
-7. Abby Kanakry ❌
-8. Matt Lansdale ❌
-9. Emily Kanakry ❌
-10. Cammie Kanakry ❌
-11. Sue Holston ❌
-12. Rachel Holston ❌
+7. Abby Kanakry 💵
+8. Matt Lansdale 💵
+9. Emily Kanakry 💵
+10. Cammie Kanakry 💵
+11. Sue Holston 💵
+12. Rachel Holston 💵
 
 Lane 3 –– Garrett Mabee (5/6 filled) 🟢
-13. Garrett Mabee ❌
+13. Garrett Mabee 💵
 14. Tanya Mabee 💵
 15. Daniel Mabee 💵
-16. Sydney Mabee ❌
+16. Isabella Vallee 💵
 17. Brayden Mabee 💵
 
-Lane 4 –– Jade Mabee (5/6 filled) 🟢
+Lane 4 –– Jade Mabee (6/6 filled) ✅
 18. Jade Mabee 💵
 19. Vicki Mabee 💵
 20. Nikki Fitchena 💵
 21. Deniese Lee 💵
-22. Laura Mabee ❌
+22. Laura Mabee 💵
+23. Theresa Unger 💵
 
 Lane 5 –– Vadym Skakun (6/6 filled) ✅
-23. Vadym Skakun ❌
-24. Samantha ❌
-25. Jaden ❌
-26. Sarah ❌
-27. Bri ❌
-28. Christian ❌
+24. Vadym Skakun ❌
+25. Samantha ❌
+26. Jaden ❌
+27. Sarah ❌
+28. Bri ❌
+29. Christian ❌
 
-Lane 6 –– Alex Fillmore (1/6 filled) ⚠️
-29. Alex Fillmore ❌
+Lane 6 –– Nik Ristoski (5/6 filled) 🟢
+30. Nik Ristoski 💵
+31. Joe 💵
+32. Emili 💵
+33. Marko 💵
+34. Dom 💵
 
-Lane 7 –– Nik Ristoski (5/6 filled) 🟢
-30. Nik Ristoski ❌
-31. Joe ❌
-32. Emili ❌
-33. Marko ❌
-34. Dom ❌
-
-Lane 8 –– Amal Thoom (6/6 filled) ✅
+Lane 7 –– Amal Thoom (6/6 filled) ✅
 35. Amal Thoom 💵
 36. Erin BOWL 💵
 37. Andrew BOWL 💵
@@ -57,54 +55,69 @@ Lane 8 –– Amal Thoom (6/6 filled) ✅
 39. Hemant Jagtap 💵
 40. Matt Kozel 💵
 
-Lane 9 –– Julia Lor (5/6 filled) 🟢
+Lane 8 –– Julia Lor (5/6 filled) 🟢
 41. Julia Lor ❌
 42. Mckayla Her ❌
 43. Tyler Her ❌
 44. Janathan Vang ❌
 45. Andre Vang ❌
 
-Lane 10 –– Jo Donaldson (6/6 filled) ✅
-46. Jo Donaldson ❌
-47. Joe Donaldson ❌
-48. Jazzma Donaldson ❌
-49. Jaeø Donaldson ❌
-50. Joell Donaldson ❌
-51. Lily Tylenda ❌
+Lane 9 –– Jo Donaldson (6/6 filled) ✅
+46. Jo Donaldson 💵
+47. Joe Donaldson 💵
+48. Jazzma Donaldson 💵
+49. Jaeø Donaldson 💵
+50. Joell Donaldson 💵
+51. Lily Tylenda 💵
 
-Lane 11 –– Lillian Frias (4/6 filled) 🟠
-52. Lillian Frias ❌
-53. Delaney Stern ❌
-54. Ella Schomer ❌
-55. Paul Seeley ❌
+Lane 10 –– Lillian Frias (4/6 filled) 🟠
+52. Lillian Frias 💵
+53. Delaney Stern 💵
+54. Ella Schomer 💵
+55. Paul Seeley 💵
 
-Lane 12 –– Trevor (6/6 filled) ✅
-56. Trevor ❌
-57. Mia ❌
-58. Kurt ❌
-59. Angie ❌
-60. Austin ❌
-61. Nicki ❌
+Lane 11 –– Trevor (5/6 filled) 🟢
+56. Trevor 💵
+57. Mia 💵
+58. Kurt 💵
+59. Angie 💵
+60. Austin 💵
 
-Lane 13 –– Cristian Shelton (5/6 filled) 🟢
-62. Cristian Shelton ❌
-63. Emma ❌
-64. Mikey ❌
-65. Lev ❌
+Lane 12 –– Cristian Shelton (6/6 filled) ✅
+61. Cristian Shelton 💵
+62. Emma 💵
+63. Maggie 💵
+64. Fran 💵
+65. Matthew 💵
 66. Tyler ❌
 
-Lane 14 –– Tarun (4/6 filled) 🟠
+Lane 13 –– Tarun (4/6 filled) 🟠
 67. Tarun 💵
 68. Gabe 💵
 69. Logan 💵
 70. Anton 💵
 
-Free Agents:
+Lane 14 –– Moe Abbasi (5/6 filled) 🟢
 71. Moe Abbasi ❌
-72. Andrew Hatch ❌
-73. Andrew Aude ❌
-74. Gavin Barnard ❌
-75. CJ Dunn ❌
-76. Declan Nowakowski ❌
-77. Lorenzo Vizentim ❌
-78. Aiden Macias ❌
+72. Emilie ❌
+73. Ian ❌
+74. Dalton ❌
+75. Katie ❌
+
+Lane 15 –– Lawrence Patton (5/6 filled) 🟢
+76. Lawrence Patton ❌
+77. Lawrence +1 ❌
+78. Lawrence +2 ❌
+79. Hatch ❌
+80. Hatch +1 ❌
+
+Lane 16 –– Andrew Aude (5/6 filled) 🟢
+81. Andrew Aude ❌
+82. Gavin Barnard ❌
+83. CJ Dunn ❌
+84. Father Vizentim ❌
+85. Mother Vizentim ❌
+
+Free Agents:
+86. Aiden Macias ❌
+87. Filly ❌
